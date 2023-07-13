@@ -1,0 +1,66 @@
+.navbar{
+    height: 100px;
+}
+.title1{
+font-family:'Pacifico', cursive;
+}
+.navbar-brand {
+  color: palevioletred;
+}
+ 
+.div2{
+    height: 600px;
+    background-image: url('./newloyal.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    padding-top: 271px;
+} 
+.imgtext{
+    padding-top: 300px;
+}
+
+
+.subtitle{
+font-family: 'Ysabeau Infant', sans-serif;
+}
+.centrpara{
+    font-size: 14px ;
+    font-family: Quattrocento;
+}
+.card{
+    font-size: 15px;
+    color: #6e6e6e;
+}
+ 
+
+.img3{
+    height: 200px;
+}
+
+ 
+.foot{
+    height: 229px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+hr{
+     
+    color: blueviolet;
+}
+.tags{
+    list-style-type: none;
+    font-size: 14px;
+}
+.fl{
+    text-decoration:none;
+    color:#fff;
+    font-family: Quattrocento;
+}
+.fthead{
+    font-family: 'Poppins', sans-serif;
+}
+.contact{
+    height: 38px;
+    width: 145px;
+}
